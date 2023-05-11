@@ -2,18 +2,18 @@
 
 Welcome to the DOOM Fire Algorithm, an fire simulation project that brings the heat to your screen! 🌋🔥🔥
 
-![DOOM Fire Algorithm](fire_demo.gif)
+<img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2EwNmRhNTExMWVlMDJlMjZhZGU1ZThlYzg1YmNkZmRjNTg5ZTRiYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/lzGKyx0mSRfvPoT8mj/giphy.gif" />
 
 The DOOM Fire Algorithm is a JavaScript-based program that generates a mesmerizing fire effect using a pixel matrix. Fire intensities are calculated and updated over time, creating a dynamic and visually stunning display.
 
-## Features
+## Features 💥
 
 - Fire simulation using pixel manipulation.
 - Configurable fire dimensions and colors.
 - Easy integration into web projects.
 - Visually captivating experience.
 
-## Usage
+## Usage 🌋
 
 To start the DOOM Fire Algorithm simulation, follow these steps:
 
@@ -25,7 +25,7 @@ Feel free to customize the fire dimensions and colors by modifying the variables
 
 You can try it by (clicking here)[https://giphy.com/embed/5us7v1xFsWRwFqyLKi]
 
-## Credits
+## Credits 🎉
 
 The DOOM Fire Algorithm project is inspired by the fire effect used in the classic video game DOOM. Special thanks to the community for providing resources and references for this implementation.
 
