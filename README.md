@@ -23,7 +23,7 @@ To start the DOOM Fire Algorithm simulation, follow these steps:
 
 Feel free to customize the fire dimensions and colors by modifying the variables in the code.
 
-You can try it by (clicking here)[https://giphy.com/embed/5us7v1xFsWRwFqyLKi]
+You can try it by [clicking here](https://1canas.github.io/doom-fire-algorithm/)
 
 ## Credits 🎉
 
